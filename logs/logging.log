@@ -1,1 +1,6 @@
 [2026-08-25 15:21:28,979: INFO: main: Welcome to our custom logging data science.]
+[2026-08-27 18:19:16,077: INFO: __init__: yaml file: config\config.yaml loaded successful]
+[2026-08-27 18:21:06,077: INFO: __init__: yaml file: config\config.yaml loaded successful]
+[2026-08-27 18:32:54,841: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-27 18:32:54,844: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-27 18:32:54,846: INFO: common: yaml file: schema.yaml loaded successful]

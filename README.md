@@ -1,4 +1,18 @@
 # FirstProj_MLOPS
 
-1) Environment: If a lead dev is working in multiple projects,
-                each project has separate dependencies, like python versions
+### Workflows -- ML Pipeline
+1) Data Ingestion
+2) Data Validation
+3) Data Transformation
+4) Model Trainer
+5) Model Evaluation
+
+## Workflows
+1) update config.yaml
+2) update schema.yaml
+3) update params.yaml
+4) update the entity
+5) update the configuration manager in src config
+6) update the components
+7) update the pipeline
+8) update main.py

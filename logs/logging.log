@@ -4,3 +4,211 @@
 [2026-08-27 18:32:54,841: INFO: common: yaml file: config\config.yaml loaded successful]
 [2026-08-27 18:32:54,844: INFO: common: yaml file: params.yaml loaded successful]
 [2026-08-27 18:32:54,846: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-27 18:39:41,690: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-27 18:39:41,694: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-27 18:39:41,696: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-27 18:39:41,699: INFO: common: created directory at: artifacts]
+[2026-08-27 18:39:41,703: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-27 18:39:42,596: INFO: 96925092: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7F2A:1EB717:7C7B8:DA828:6A9013ED
+x-github-edge-region: southeastasia
+Accept-Ranges: bytes
+Date: Thu, 27 Aug 2026 10:39:42 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1261-QPG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1787827182.035264,VS0,VE344
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: fd6210254824fbe4f8564bdeddcfbbf6094189a6
+Expires: Thu, 27 Aug 2026 10:44:42 GMT
+Source-Age: 0
+
+]
+[2026-08-27 18:40:05,433: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-27 18:40:05,440: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-27 18:40:05,443: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-27 18:40:05,446: INFO: common: created directory at: artifacts]
+[2026-08-27 18:40:05,449: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-27 18:40:05,451: INFO: 96925092: File already exists]
+[2026-08-28 17:11:02,641: INFO: main: >>> stage Data Ingestion Stage started <<<]
+[2026-08-28 17:11:02,644: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-28 17:11:02,645: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-28 17:11:02,647: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-28 17:11:02,647: INFO: common: created directory at: artifacts]
+[2026-08-28 17:11:02,648: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-28 17:11:02,650: INFO: data_ingestion: File already exists]
+[2026-08-28 17:11:02,682: INFO: main: >>> stage Data Ingestion Stage completed <<<]
+[2026-08-30 15:16:37,972: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 15:16:37,978: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 15:16:37,981: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 15:16:37,984: INFO: common: created directory at: artifacts]
+[2026-08-30 12:48:44,096: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:48:44,100: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:48:44,104: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:48:44,107: INFO: common: created directory at: artifacts]
+[2026-08-30 12:52:31,296: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:52:31,300: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:52:31,305: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:52:31,307: INFO: common: created directory at: artifacts]
+[2026-08-30 12:55:20,635: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:55:20,643: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:55:20,658: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:55:20,665: INFO: common: created directory at: artifacts]
+[2026-08-30 12:57:04,986: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:57:04,988: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:57:04,992: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:57:04,996: INFO: common: created directory at: artifacts]
+[2026-08-30 12:57:55,766: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:57:55,770: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:57:55,778: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:57:55,781: INFO: common: created directory at: artifacts]
+[2026-08-30 12:58:46,758: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:58:46,761: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:58:46,765: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:58:46,768: INFO: common: created directory at: artifacts]
+[2026-08-30 12:59:22,488: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:59:22,489: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:59:22,493: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:59:22,495: INFO: common: created directory at: artifacts]
+[2026-08-30 12:59:35,944: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 12:59:35,946: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 12:59:35,951: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 12:59:35,953: INFO: common: created directory at: artifacts]
+[2026-08-30 13:01:06,705: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 13:01:06,708: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 13:01:06,714: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 13:01:06,717: INFO: common: created directory at: artifacts]
+[2026-08-30 13:01:30,525: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 13:01:30,529: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 13:01:30,539: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 13:01:30,543: INFO: common: created directory at: artifacts]
+[2026-08-30 13:03:53,530: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 13:03:53,534: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 13:03:53,540: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 13:03:53,543: INFO: common: created directory at: artifacts]
+[2026-08-30 13:04:01,591: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 13:04:01,593: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 13:04:01,597: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 13:04:01,599: INFO: common: created directory at: artifacts]
+[2026-08-30 13:08:56,277: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 13:08:56,281: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 13:08:56,288: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 13:08:56,292: INFO: common: created directory at: artifacts]
+[2026-08-30 13:08:56,294: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-30 13:09:07,954: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 13:09:07,958: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 13:09:07,962: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 13:09:07,964: INFO: common: created directory at: artifacts]
+[2026-08-30 13:09:07,966: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-30 15:53:58,908: INFO: main: >>> stage Data Ingestion Stage started <<<]
+[2026-08-30 15:53:58,916: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 15:53:58,941: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 15:53:58,948: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 15:53:58,950: INFO: common: created directory at: artifacts]
+[2026-08-30 15:53:58,951: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-30 15:53:58,952: INFO: data_ingestion: File already exists]
+[2026-08-30 15:53:58,977: INFO: main: >>> stage Data Ingestion Stage completed <<<]
+[2026-08-30 15:53:58,977: INFO: main: >>> stage Data Validation Pipeline started <<<]
+[2026-08-30 15:53:58,980: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 15:53:58,981: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 15:53:58,984: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 15:53:58,986: INFO: common: created directory at: artifacts]
+[2026-08-30 15:53:58,987: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-30 15:53:58,987: ERROR: main: name 'pd' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\chait\ui\FirstProj_MLOPS\main.py", line 22, in <module>
+    obj.initiate_data_validation();
+  File "C:\Users\chait\ui\FirstProj_MLOPS\src\datasci\pipeline\data_validation.py", line 15, in initiate_data_validation
+    data_valid.validate_all_columns();
+  File "C:\Users\chait\ui\FirstProj_MLOPS\src\datasci\components\data_validation.py", line 30, in validate_all_columns
+    raise e
+  File "C:\Users\chait\ui\FirstProj_MLOPS\src\datasci\components\data_validation.py", line 15, in validate_all_columns
+    data = pd.read_csv(self.config.unzip_data_dir)
+NameError: name 'pd' is not defined
+[2026-08-30 15:55:07,632: INFO: main: >>> stage Data Ingestion Stage started <<<]
+[2026-08-30 15:55:07,636: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 15:55:07,638: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 15:55:07,643: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 15:55:07,646: INFO: common: created directory at: artifacts]
+[2026-08-30 15:55:07,648: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-30 15:55:07,650: INFO: data_ingestion: File already exists]
+[2026-08-30 15:55:07,658: INFO: main: >>> stage Data Ingestion Stage completed <<<]
+[2026-08-30 15:55:07,658: INFO: main: >>> stage Data Validation Pipeline started <<<]
+[2026-08-30 15:55:07,666: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 15:55:07,669: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 15:55:07,673: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 15:55:07,675: INFO: common: created directory at: artifacts]
+[2026-08-30 15:55:07,676: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-30 15:55:07,728: INFO: main: >>> stage Data Validation Pipeline completed <<<]
+[2026-08-30 19:57:54,187: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 19:57:54,194: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 19:57:54,203: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 19:57:54,207: INFO: common: created directory at: artifacts]
+[2026-08-30 19:57:54,211: INFO: common: created directory at: artifacts/data_transformation]
+[2026-08-30 20:00:02,499: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-30 20:00:02,502: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-30 20:00:02,507: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-30 20:00:02,509: INFO: common: created directory at: artifacts]
+[2026-08-30 20:00:02,511: INFO: common: created directory at: artifacts/data_transformation]
+[2026-08-30 20:00:02,548: INFO: 159275454: Split data to train and test]
+[2026-08-30 20:00:02,549: INFO: 159275454: (1199, 12)]
+[2026-08-30 20:00:02,551: INFO: 159275454: (400, 12)]
+[2026-08-31 07:56:52,036: INFO: main: >>> stage Data Ingestion Stage started <<<]
+[2026-08-31 07:56:52,040: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-31 07:56:52,057: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-31 07:56:52,065: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-31 07:56:52,067: INFO: common: created directory at: artifacts]
+[2026-08-31 07:56:52,068: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-31 07:56:52,069: INFO: data_ingestion: File already exists]
+[2026-08-31 07:56:52,105: INFO: main: >>> stage Data Ingestion Stage completed <<<]
+[2026-08-31 07:56:52,105: INFO: main: >>> stage Data Validation Pipeline started <<<]
+[2026-08-31 07:56:52,108: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-31 07:56:52,109: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-31 07:56:52,112: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-31 07:56:52,113: INFO: common: created directory at: artifacts]
+[2026-08-31 07:56:52,113: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-31 07:56:52,157: INFO: main: >>> stage Data Validation Pipeline completed <<<]
+[2026-08-31 07:56:52,157: INFO: main: >>> stage Data Transformation Pipeline started <<<]
+[2026-08-31 07:56:52,157: ERROR: main: DataTransformationPipeline.initiate_transformation() takes 0 positional arguments but 1 was given]
+Traceback (most recent call last):
+  File "C:\Users\chait\ui\FirstProj_MLOPS\main.py", line 35, in <module>
+    obj.initiate_transformation();
+TypeError: DataTransformationPipeline.initiate_transformation() takes 0 positional arguments but 1 was given
+[2026-08-31 08:00:20,281: INFO: main: >>> stage Data Ingestion Stage started <<<]
+[2026-08-31 08:00:20,286: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-31 08:00:20,288: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-31 08:00:20,292: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-31 08:00:20,296: INFO: common: created directory at: artifacts]
+[2026-08-31 08:00:20,297: INFO: common: created directory at: artifacts/data_ingestion]
+[2026-08-31 08:00:20,298: INFO: data_ingestion: File already exists]
+[2026-08-31 08:00:20,304: INFO: main: >>> stage Data Ingestion Stage completed <<<]
+[2026-08-31 08:00:20,304: INFO: main: >>> stage Data Validation Pipeline started <<<]
+[2026-08-31 08:00:20,309: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-31 08:00:20,311: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-31 08:00:20,317: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-31 08:00:20,318: INFO: common: created directory at: artifacts]
+[2026-08-31 08:00:20,319: INFO: common: created directory at: artifacts/data_validation]
+[2026-08-31 08:00:20,368: INFO: main: >>> stage Data Validation Pipeline completed <<<]
+[2026-08-31 08:00:20,368: INFO: main: >>> stage Data Transformation Pipeline started <<<]
+[2026-08-31 08:00:20,372: INFO: common: yaml file: config\config.yaml loaded successful]
+[2026-08-31 08:00:20,374: INFO: common: yaml file: params.yaml loaded successful]
+[2026-08-31 08:00:20,376: INFO: common: yaml file: schema.yaml loaded successful]
+[2026-08-31 08:00:20,377: INFO: common: created directory at: artifacts]
+[2026-08-31 08:00:20,379: INFO: common: created directory at: artifacts/data_transformation]
+[2026-08-31 08:00:20,409: INFO: data_transformation: Split data to train and test]
+[2026-08-31 08:00:20,410: INFO: data_transformation: (1199, 12)]
+[2026-08-31 08:00:20,410: INFO: data_transformation: (400, 12)]
+[2026-08-31 08:00:20,411: INFO: main: >>> stage Data Transformation Pipeline completed <<<]
